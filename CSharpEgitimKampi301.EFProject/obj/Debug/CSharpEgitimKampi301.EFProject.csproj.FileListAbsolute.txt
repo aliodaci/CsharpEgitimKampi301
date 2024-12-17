@@ -1,0 +1,17 @@
+D:\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.AssemblyReference.cache
+D:\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.Form1.resources
+D:\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.Properties.Resources.resources
+D:\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.GenerateResource.cache
+D:\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.csproj.CoreCompileInputs.cache
+D:\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\CSharpEgitimKampi301.EFProject.exe.config
+D:\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\CSharpEgitimKampi301.EFProject.exe
+D:\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\CSharpEgitimKampi301.EFProject.pdb
+D:\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.dll
+D:\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.xml
+D:\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEg.14093BF7.Up2Date
+D:\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.exe
+D:\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.pdb
+D:\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.FrmLocation.resources
+D:\source\repos\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\obj\Debug\CSharpEgitimKampi301.EFProject.FrmStatistic.resources
